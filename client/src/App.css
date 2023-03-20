@@ -1,6 +1,7 @@
 .main{
-    background: url(./image1.jpg);
+    background: url(./1.jpg);
     background-size: cover;
+    height: 590px;
     background-repeat: no-repeat;
     text-align: center;
     padding: 100px;
